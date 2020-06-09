@@ -1,3 +1,3 @@
-# nlw
+# Next Level Weekend
 
 Site Ecoleta
